@@ -1,1 +1,1 @@
-This is a To-Do list application named 'Checkmate' developed using Python GUI
+This is a Task Management application named 'Checkmate' developed using Python GUI
